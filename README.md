@@ -1,4 +1,9 @@
 # Age Detection of Indian Actors | Analytics Vidhya
+
+#### This approach worked well for this problem and got 88.53 accuracy on test set which put this result in 19th position in this competetion. This can be taken further if more time is spent with GPU and need to tweak parameters on the best model till date.
+ 
+For code please go to https://github.com/AbhinayReddyYarva/Age-Detection-of-Indian-Actors-Analytics-Vidhya/blob/master/age_pred_alexnet.ipynb 
+
 #### About Problem
 Indian Movie Face database (IMFDB) is a large unconstrained face database consisting of 34512 images of 100 Indian actors collected from more than 100 videos. All the images are manually selected and cropped from the video frames resulting in a high degree of variability interms of scale, pose, expression, illumination, age, resolution, occlusion, and makeup. IMFDB is the first face database that provides a detailed annotation of every image in terms of age, pose, gender, expression and type of occlusion that may help other face related applications. For more details about the data set, read here
 
@@ -20,5 +25,4 @@ test
   |-Test (folder contains test all images) 
   |-test.csv (Contains image names as ID's)
   
-#### This approach worked well for this problem and got 88.53 accuracy on test set which put this result in 19th position in this competetion. This can be taken further if more time is spent with GPU and need to tweak parameters on the best model till date.
  
