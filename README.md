@@ -21,3 +21,4 @@ test
   |-test.csv (Contains image names as ID's)
   
 #### This approach worked well for this problem and got 88.53 accuracy on test set which put this result in 19th position in this competetion. This can be taken further if more time is spent with GPU and need to tweak parameters on the best model till date.
+ 
